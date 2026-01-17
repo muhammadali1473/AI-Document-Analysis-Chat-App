@@ -1,0 +1,12 @@
+node_modules/
+.env
+.DS_Store
+dist/
+.expo/
+*.apk
+*.aab
+uploads/
+backend/uploads/
+**/.env
+**/.env.*
+frontend/.expo/
