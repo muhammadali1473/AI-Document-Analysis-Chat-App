@@ -19,7 +19,7 @@ A React Native (Expo) application with a Node.js backend for analyzing documents
     
 1. Navigate to the backend folder:
    ```bash
-   cd backend
+   cd backend    
    ```
 2. Install dependencies (if not already done):
    ```bash
