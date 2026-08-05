@@ -14,7 +14,7 @@ A React Native (Expo) application with a Node.js backend for analyzing documents
 - `backend/`: Node.js Express server       
            
 ## Setup Actions      
-
+,,
 ### 1. Backend Setup            
         
 1. Navigate to the backend folder:
