@@ -16,7 +16,7 @@ A React Native (Expo) application with a Node.js backend for analyzing documents
 ## Setup Actions      
 ,,
 ### 1. Backend Setup            
-        
+          
 1. Navigate to the backend folder:
    ```bash
    cd backend    
