@@ -11,7 +11,7 @@ A React Native (Expo) application with a Node.js backend for analyzing documents
 ## Project Structure     
         
 - `frontend/`: Expo mobile app              
-- `backend/`: Node.js Express server    
+- `backend/`: Node.js Express server       
            
 ## Setup Actions      
 
