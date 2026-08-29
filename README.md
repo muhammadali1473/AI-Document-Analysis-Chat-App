@@ -13,7 +13,7 @@ A React Native (Expo) application with a Node.js backend for analyzing documents
                                     
 - `frontend/`: Expo mobile app                                                
 - `backend/`: Node.js Express server             
-                       
+                          
 ## Setup Actions      
 ,,    
 ### 1. Backend Setup                 
