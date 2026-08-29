@@ -47,7 +47,7 @@ A React Native (Expo) application with a Node.js backend for analyzing documents
    npm install
    ```
 3. Update API URL:
-   - Open `src/api/client.js`.
+   - Open `src/api/client.js`.   
    - Update `PROD_URL` or `DEV_URL` to your computer's local IP address if testing on a physical device (e.g., `http://192.168.1.5:3000/api`).
    - If using Android Emulator, `http://10.0.2.2:3000/api` works by default.
 4. Run the app:
