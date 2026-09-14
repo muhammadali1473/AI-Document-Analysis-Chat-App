@@ -8,7 +8,7 @@ A React Native (Expo) application with a Node.js backend for analyzing documents
 - Node.js installed                                              
 - Expo Go app on your   phone (or an emulato  r)                                                xcvdergergdebertheb
 -                                          
-- Groq API Key                                                                                      
+- Groq API Key                                                                                          
                                                                                      
 ## Project Structure                                                                    
                                          
