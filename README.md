@@ -3,9 +3,9 @@
 A React Native (Expo) application with a Node.js backend for analyzing documents using Groq API and RAG.
              
 ## Prerequisites                                       
-                                              m                                                           
+                                                                                                        
                                                                                                     
-- Node.js installed                                              
+- Node.js installed                                               
 - Expo Go app on your   phone (or an emulato  r)                                                xcvdergergdebertheb
 -                                          
 - Groq API Key                                                                                                          
