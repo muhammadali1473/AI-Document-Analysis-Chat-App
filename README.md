@@ -1,13 +1,13 @@
                              # AI Document Analysis App          
       
 A React Native (Expo) application with a Node.js backend for analyzing documents using Groq API and RAG.
-                                                
+                                                             
 ## Prerequisites                                            
                                                                                                         
                                                                                                                                                        
 - Node.js installed                                               
 - Expo Go app on your   phone (or an emulato  r)                                                            
--                                                           
+-                                                                      
 - Groq API Key                                                                                                          
                                                                                                                       
 ## Project Structure                                                                    
